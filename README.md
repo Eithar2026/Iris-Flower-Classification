@@ -45,4 +45,4 @@ The models were evaluated using:
 4. Run the notebook cells in order.
 
 ## Author
-Data Science Internship Project – Iris Flower Classification
+Data Science Internship with codeAlpha – Iris Flower Classification
